@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel Gonzalo Vázquez
 
-<!--
-**Mgonzalo11/mgonzalo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy estudiante del **Grado en Ingeniería de Sistemas de la Información (GISI)** y estoy buscando nuevos desafíos que me permitan crecer y evolucionar en el emocionante mundo de la tecnología. Mi viaje comenzó en **Administración de Sistemas Informáticos en Red (ASIR)**, donde adquirí sólidos conocimientos en **administración de sistemas, bases de datos, redes y desarrollo web**.
 
-Here are some ideas to get you started:
+A medida que avanzaba en mis estudios, descubrí mi pasión por la **ciberseguridad**, y desde entonces me he centrado en el **Red Team**, con la meta de expandir mis habilidades hacia el **Blue Team** y así ser parte del **Purple Team**. He participado activamente en plataformas como **HackTheBox** y **TryHackMe**, donde he perfeccionado mi capacidad para detectar vulnerabilidades y explotarlas de manera ética. Como parte de mi formación, realicé un **Trabajo de Fin de Grado (TFG)** enfocado en la vulnerabilidad **XSS (Cross-Site Scripting)**, profundizando en cómo se puede explotar y las formas de mitigarla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Finalidad de este repositorio
+Este repositorio será el lugar donde comparto mis proyectos desarrollados a lo largo de mi formación en GISI, tanto académicos como personales. Aquí podrás explorar trabajos relacionados con:
+
+- 💻 **Programación**
+- 🛡️ **Ciberseguridad (Red Team, Blue Team, Purple Team)**
+- 🗄️ **Bases de datos**
+- 🌐 **Redes**
+- 🔧 **Y mucho más...**
+
+Mi objetivo es que este espacio se convierta en un portafolio dinámico donde pueda compartir mis avances, recibir feedback de la comunidad y continuar aprendiendo.
+
+¡Gracias por pasarte por aquí! Si tienes intereses similares o cualquier sugerencia, estaré encantado de conectar contigo. ¡Siempre abierto a nuevas oportunidades y colaboraciones! 🚀
