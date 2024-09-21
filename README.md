@@ -12,6 +12,7 @@ Este repositorio será el lugar donde comparto mis proyectos desarrollados a lo 
 - 🛡️ **Ciberseguridad (Red Team, Blue Team, Purple Team)**
 - 🗄️ **Bases de datos**
 - 🌐 **Redes**
+- 🖥️ **Sistemas operativos**
 - 🔧 **Y mucho más...**
 
 Mi objetivo es que este espacio se convierta en un portafolio dinámico donde pueda compartir mis avances, recibir feedback de la comunidad y continuar aprendiendo.
