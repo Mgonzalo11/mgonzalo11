@@ -2,9 +2,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
 
 <!-- Título principal con un efecto de escritura -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Gonzalo+Vázquez!;" />
-</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&width=435&lines=I'M+MIGUEL+GONZALO+V%C3%81ZQUEZ+%F0%9F%A4%93;Estudio+Ingenier%C3%ADa+Inform%C3%A1tica+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
 <!-- Subtítulo que describe brevemente quién eres -->
 <h3 align="center">Un apasionado estudiante de Ingeniería de Sistemas de la Información de España 🇪🇸</h3>
