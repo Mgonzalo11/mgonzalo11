@@ -27,17 +27,22 @@
 
 
 <!-- Sección de enlaces a redes sociales y contacto -->
-<div align="center"> 
+<div align="center" style="margin-top: 20px;"> 
   <a href="mailto:miguelgonzalovazquez04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <br/><br/> <!-- Espacio entre los botones -->
+  
   <a href="https://www.linkedin.com/in/miguel-gonzalo-vazquez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br/><br/> <!-- Espacio entre los botones -->
+  
   <a href="https://wuolah.com/miguelgonzalovazquez" target="_blank">
     <img src="https://img.shields.io/badge/Wuolah-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Wuolah" />
   </a>
 </div>
+
 
 
 <!-- Línea horizontal para separar secciones -->
