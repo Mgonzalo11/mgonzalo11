@@ -12,7 +12,7 @@
 <!-- Espaciador -->
 <br/>
 
-<!-- Sección central que describe tu formación y áreas de interés -->
+<!-- Descripción de mi formación y áreas de interés -->
 <div align="center">
     <p>
         🔭 Actualmente estoy estudiando en el <strong>CEU San Pablo</strong> <strong>Ingeniería Informática de Sistemas de la Información</strong>.
@@ -25,7 +25,7 @@
     </p>
 </div>
 
-<!-- Sección de enlaces a redes sociales y contacto -->
+<!-- Sección con enlaces a redes sociales y contacto -->
 <div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
     <a href="mailto:miguelgonzalovazquez04@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -40,27 +40,27 @@
     </a>
 </div>
 
-<!-- Línea horizontal para separar secciones -->
+<!-- Línea horizontal para separar diferentes secciones -->
 <hr/>
 
-<!-- Título de sección sobre lenguajes y herramientas -->
+<!-- Título para la sección de lenguajes y herramientas -->
 <h2 align="center" style="color: #4CAF50;">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
 
-<!-- Iconos que representan los lenguajes y herramientas que usas -->
+<!-- Iconos que representan las tecnologías que manejo -->
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,git,github,idea,vscode,notion" />
 </div>
 <br/>
 
-<!-- Línea horizontal para separar secciones -->
+<!-- Línea horizontal para separar diferentes secciones -->
 <hr/>
 
-<!-- Título de sección para estadísticas de GitHub -->
+<!-- Título de la sección de estadísticas de GitHub -->
 <h2 align="center" style="color: #4CAF50;">⚡ Estadísticas ⚡</h2>
-<br>
+<br/>
 
-<!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
+<!-- Contenedor para mostrar estadísticas de GitHub -->
 <div align="center" style="max-width: 800px; margin: 0 auto;">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
