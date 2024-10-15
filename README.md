@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
 </a>
 
-<!-- Subtítulo frase célebre -->
+<!-- Subtítulo con una frase célebre -->
 <h3 align="center" style="color: #555;">"La innovación es lo que distingue a un líder de un seguidor." - Steve Jobs.</h3>
 
 <!-- Espaciador -->
@@ -62,16 +62,13 @@
 
 <!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
 <div align="center" style="max-width: 800px; margin: 0 auto;">
-    <!-- Estadísticas de la racha de contribuciones -->
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     </a>
-    <br/><br/> <!-- Espaciado entre las imágenes -->
+    <br/><br/>
     
-    <!-- Estadísticas generales del perfil de GitHub -->
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
-    <br/><br/> <!-- Espaciado entre las imágenes -->
+    <br/><br/>
     
-    <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </div>
