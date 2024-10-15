@@ -64,14 +64,19 @@
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
   
-  <br/><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+  <br>
+  <!-- Gráfico de las contribuciones del año -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&border_radius=10" alt="Mis Contribuciones del Año" />
+  
+  <br/><br/>
 </div>
+
 
 <!-- Línea horizontal para separar secciones -->
 <hr/>
