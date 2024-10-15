@@ -53,53 +53,30 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,git,github,idea,vscode,notion" />
 </div>
-
-
 <br/>
-<div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
-  <br>
-  <!-- Gráfico de contribuciones del año en cuadraditos -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  <br/><br/>
-</div>
+
 <!-- Línea horizontal para separar secciones -->
 <hr/>
 
 <!-- Título de sección para estadísticas de GitHub -->
-<h2 align="center">⚡ Estadísticas ⚡</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">⚡ Estadísticas ⚡</h2>
 <br>
-
 <!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  </picture>
+  <br/><br/> <!-- Espaciado entre las imágenes -->
   <!-- Estadísticas de la racha de contribuciones -->
-  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Mgonzalo11&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  </a>
   <br/><br/> <!-- Espaciado entre las imágenes -->
-  
   <!-- Estadísticas generales del perfil de GitHub -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
   <br/><br/> <!-- Espaciado entre las imágenes -->
-  
   <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </div>
-
-<br/><br/>
-
-
-<!-- Línea horizontal para separar secciones -->
-<hr/>
-
-<br/>
-
-<!-- Sección de apoyo para donaciones -->
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<br/>
