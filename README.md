@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
-<a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
-</a>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
+    </a>
+</div>
+
 <h3 align="center" style="color: #555;">"La innovación es lo que distingue a un líder de un seguidor." - Steve Jobs.</h3>
 <br/>
 <div align="center">
