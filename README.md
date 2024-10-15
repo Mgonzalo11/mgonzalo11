@@ -63,12 +63,6 @@
 <br>
 <!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
 <div align="center" style="max-width: 800px; margin: 0 auto;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  </picture>
-  <br/><br/> <!-- Espaciado entre las imágenes -->
   <!-- Estadísticas de la racha de contribuciones -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
