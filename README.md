@@ -51,7 +51,7 @@
 
 <!-- Iconos que representan los lenguajes y herramientas que usas -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysq,git,github,idea,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,git,github,idea,vscode,notion" />
 </div>
 
 
