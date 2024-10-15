@@ -33,7 +33,7 @@
 <h2 align="center" style="color: #4CAF50;">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://www.marca.com/" target="_blank">
+    <a href="[https://www.marca.com/](https://www.google.com/search?sca_esv=28f8fab5923385a6&sxsrf=ADLYWIJXBWSrnB-TY_VDbodXTYVoXlhJxQ:1729026230863&q=memes+de+monos&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf_uPKlBgHiXUTxuTOrBgkEHAZKBArNMIg_JaUOYCTVNreNhAlJbFKEmzPuAQkoiBtIhrPYKQR3WHGzgZYwxf2NkHIa-s&sa=X&sqi=2&ved=2ahUKEwii1bDSpJGJAxViefEDHWdqKqIQtKgLegQIEBAB&biw=2560&bih=1214&dpr=0.75)" target="_blank">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,git,github,idea,vscode,notion" />
     </a>
 </div>
