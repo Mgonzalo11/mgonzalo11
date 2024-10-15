@@ -1,19 +1,92 @@
-# 👋 ¡Hola! Soy Miguel Gonzalo Vázquez
+<!-- Badge de visitante para mostrar cuántas visitas ha recibido el perfil -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
 
-## 🚀 Sobre mí
-Soy estudiante del **Grado en Ingeniería de Sistemas de la Información (GISI)**. Mi experiencia en el mundo de la informatica comenzó con un grado en **Administración de Sistemas Informáticos en Red (ASIR)**, donde adquirí sólidos conocimientos en **administración de sistemas, bases de datos, redes y desarrollo web**.
+<!-- Título principal con un efecto de escritura -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Miguel+Gonzalo+Vázquez!;" />
+</h1>
 
-A medida que avanzaba en mis estudios, descubrí mi pasión por la **ciberseguridad**, he participado activamente en plataformas como **HackTheBox** y **TryHackMe**, donde he perfeccionado mi capacidad para detectar vulnerabilidades y explotarlas de manera ética. Como parte de mi formación, realicé un **Trabajo de Fin de Grado (TFG)** enfocado en la vulnerabilidad **XSS (Cross-Site Scripting)**, profundizando en cómo se puede explotar y las formas de mitigarla. 
-Durante mi periodo de prácticas en **Indra**, formé parte del **departamento de Seguridad de la Información**. Allí, tuve la oportunidad de colaborar en los estudios de las **campañas de phishing 2023**, donde analicé datos y elaboré gráficos interactivos mediante **Power BI**. Además, completé un curso sobre la **ISO 27001**, obteniendo una visión más amplia de los estándares de seguridad de la información. También adquirí conocimientos sobre la **Cátedra de Seguridad de la Información** y participé en diversas actividades relacionadas con la seguridad dentro del departamento, lo que me permitió comprender mejor las políticas y prácticas del sector.
+<!-- Subtítulo que describe brevemente quién eres -->
+<h3 align="center">Un apasionado estudiante de Ingeniería de Sistemas de la Información de España 🇪🇸</h3>
 
-## 🎯 Finalidad de este repositorio
-Este repositorio será el lugar donde comparto mis proyectos desarrollados a lo largo de mi formación en GISI, tanto académicos como personales. Aquí podrás explorar trabajos relacionados con:
+<!-- Espaciador -->
+<br/>
 
-- 💻 **Programación**
-- 🛡️ **Ciberseguridad (Red Team, Blue Team, Purple Team)**
-- 🗄️ **Bases de datos**
-- 🌐 **Redes**
-- 🖥️ **Sistemas operativos**
-- 🔧 **Y mucho más...**
+<!-- Sección central que describe tu formación y áreas de interés -->
+<div align="center">
+ 🔭 Actualmente estoy Estudiando en el CEU San Pablo **Ingeniería Informática de Sistemas de la Información**.
+ 
+ 🌱 Estoy aprendiendo **JAVA, Lógica, Git y GitHub**.
 
-Mi objetivo con este portal es que se convierta en un portafolio en donde pueda compartir mis proyectos, recibir diversas opiniones de la comunidad y seguir aprendiendo.
+💬 Pregúntame sobre **programación, sistemas operativos, bases de datos, ciberseguridad... o cualquier cosa [aquí](https://github.com/Mgonzalo11/Programacion-I/issues)**
+ </div>
+
+<!-- Sección de enlaces a redes sociales y contacto -->
+<div align="center"> 
+  <a href="mailto:miguelgonzalovazquez04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-gonzalo-vazquez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://wuolah.com/miguelgonzalovazquez" target="_blank">
+    <img src="https://img.shields.io/badge/Wuolah-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<!-- Línea horizontal para separar secciones -->
+<hr/>
+
+<!-- Título de sección sobre lenguajes y herramientas -->
+<h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
+<br/>
+
+<!-- Iconos que representan los lenguajes y herramientas que usas -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,mysql" />
+</div>
+
+<br/>
+
+<!-- Línea horizontal para separar secciones -->
+<hr/>
+
+<!-- Sección para mostrar contribuciones en GitHub -->
+<div align="center">
+  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mgonzalo11/Mgonzalo11/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<!-- Línea horizontal para separar secciones -->
+<hr/>
+
+<!-- Título de sección para estadísticas de GitHub -->
+<h2 align="center">⚡ Estadísticas ⚡</h2>
+<br>
+
+<!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
+<div align=center>
+  <!-- Estadísticas de la racha de contribuciones -->
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Mgonzalo11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- Estadísticas generales del perfil de GitHub -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<!-- Línea horizontal para separar secciones -->
+<hr/>
+
+<br/>
+
+<!-- Sección de apoyo para donaciones -->
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+<br/>
