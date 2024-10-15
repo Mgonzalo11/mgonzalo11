@@ -2,51 +2,49 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
 
 <!-- Título principal con un efecto de escritura -->
-<a href="https://git.io/typing-svg" alingn="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
 </a>
 
 <!-- Subtítulo frase célebre -->
-<h3 align="center">"La innovación es lo que distingue a un líder de un seguidor." - Steve Jobs. </h3>
+<h3 align="center" style="color: #555;">"La innovación es lo que distingue a un líder de un seguidor." - Steve Jobs.</h3>
 
 <!-- Espaciador -->
 <br/>
 
 <!-- Sección central que describe tu formación y áreas de interés -->
 <div align="center">
-  <p>
-    🔭 Actualmente estoy estudiando en el <strong>CEU San Pablo</strong> <strong>Ingeniería Informática de Sistemas de la Información</strong>.
-  </p>
-  <p>
-    🌱 Estoy aprendiendo <strong>JAVA, Lógica, Git y GitHub</strong>.
-  </p>  
-  <p>
-    💬 Pregúntame sobre <strong>programación, sistemas operativos, bases de datos, ciberseguridad...</strong> o cualquier cosa <a href="https://github.com/Mgonzalo11/Programacion-I/issues">aquí</a>.
-  </p>
+    <p>
+        🔭 Actualmente estoy estudiando en el <strong>CEU San Pablo</strong> <strong>Ingeniería Informática de Sistemas de la Información</strong>.
+    </p>
+    <p>
+        🌱 Estoy aprendiendo <strong>JAVA, Lógica, Git y GitHub</strong>.
+    </p>
+    <p>
+        💬 Pregúntame sobre <strong>programación, sistemas operativos, bases de datos, ciberseguridad...</strong> o cualquier cosa <a href="https://github.com/Mgonzalo11/Programacion-I/issues">aquí</a>.
+    </p>
 </div>
-
 
 <!-- Sección de enlaces a redes sociales y contacto -->
 <div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-  <a href="mailto:miguelgonzalovazquez04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/miguel-gonzalo-vazquez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://wuolah.com/miguelgonzalovazquez" target="_blank">
-    <img src="https://img.shields.io/badge/Wuolah-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Wuolah" />
-  </a>
+    <a href="mailto:miguelgonzalovazquez04@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    
+    <a href="https://www.linkedin.com/in/miguel-gonzalo-vazquez/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    
+    <a href="https://wuolah.com/miguelgonzalovazquez" target="_blank">
+        <img src="https://img.shields.io/badge/Wuolah-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Wuolah" />
+    </a>
 </div>
-
 
 <!-- Línea horizontal para separar secciones -->
 <hr/>
 
 <!-- Título de sección sobre lenguajes y herramientas -->
-<h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
+<h2 align="center" style="color: #4CAF50;">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
 
 <!-- Iconos que representan los lenguajes y herramientas que usas -->
@@ -59,18 +57,21 @@
 <hr/>
 
 <!-- Título de sección para estadísticas de GitHub -->
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">⚡ Estadísticas ⚡</h2>
+<h2 align="center" style="color: #4CAF50;">⚡ Estadísticas ⚡</h2>
 <br>
+
 <!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
 <div align="center" style="max-width: 800px; margin: 0 auto;">
-  <!-- Estadísticas de la racha de contribuciones -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  </a>
-  <br/><br/> <!-- Espaciado entre las imágenes -->
-  <!-- Estadísticas generales del perfil de GitHub -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
-  <br/><br/> <!-- Espaciado entre las imágenes -->
-  <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
+    <!-- Estadísticas de la racha de contribuciones -->
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Mgonzalo11&theme=windows-dark" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+    </a>
+    <br/><br/> <!-- Espaciado entre las imágenes -->
+    
+    <!-- Estadísticas generales del perfil de GitHub -->
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
+    <br/><br/> <!-- Espaciado entre las imágenes -->
+    
+    <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </div>
