@@ -2,17 +2,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
 
 <!-- Título principal con un efecto de escritura -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&center=true&vCenter=true&multiline=true&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+computer+engineering+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" alingn="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
+</a>
 
-<!-- Subtítulo que describe brevemente quién eres -->
-<h3 align="center">Un apasionado estudiante de Ingeniería de Sistemas de la Información de España 🇪🇸</h3>
+<!-- Subtítulo frase célebre -->
+<h3 align="center">"La innovación es lo que distingue a un líder de un seguidor." - Steve Jobs. </h3>
 
 <!-- Espaciador -->
 <br/>
 
 <!-- Sección central que describe tu formación y áreas de interés -->
 <div align="center">
- 🔭 Actualmente estoy Estudiando en el CEU San Pablo **Ingeniería Informática de Sistemas de la Información**.
+ 🔭 Actualmente estoy estudiando en el CEU San Pablo **Ingeniería Informática de Sistemas de la Información**.
  
  🌱 Estoy aprendiendo **JAVA, Lógica, Git y GitHub**.
 
