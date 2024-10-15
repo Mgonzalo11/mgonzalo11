@@ -14,12 +14,17 @@
 
 <!-- Sección central que describe tu formación y áreas de interés -->
 <div align="center">
- 🔭 Actualmente estoy estudiando en el CEU San Pablo **Ingeniería Informática de Sistemas de la Información**.
- 
- 🌱 Estoy aprendiendo **JAVA, Lógica, Git y GitHub**.
+  <p>
+    🔭 Actualmente estoy estudiando en el <strong>CEU San Pablo</strong> <strong>Ingeniería Informática de Sistemas de la Información</strong>.
+  </p>
+  <p>
+    🌱 Estoy aprendiendo <strong>JAVA, Lógica, Git y GitHub</strong>.
+  </p>  
+  <p>
+    💬 Pregúntame sobre <strong>programación, sistemas operativos, bases de datos, ciberseguridad...</strong> o cualquier cosa <a href="https://github.com/Mgonzalo11/Programacion-I/issues">aquí</a>.
+  </p>
+</div>
 
-💬 Pregúntame sobre **programación, sistemas operativos, bases de datos, ciberseguridad... o cualquier cosa [aquí](https://github.com/Mgonzalo11/Programacion-I/issues)**
- </div>
 
 <!-- Sección de enlaces a redes sociales y contacto -->
 <div align="center"> 
