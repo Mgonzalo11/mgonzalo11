@@ -60,39 +60,28 @@
 <!-- Línea horizontal para separar secciones -->
 <hr/>
 
-<!-- Sección para mostrar contribuciones en GitHub -->
-<div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
-  <br>
-  
-  <!-- Gráfico de contribuciones del año en formato de cuadraditos -->
-  <img alt="Gráfico de contribuciones" src="https://github.com/Mgonzalo11/github-snake.svg" />
-  
-  <br/><br/>
-</div>
-
-
-
-
-<!-- Línea horizontal para separar secciones -->
-<hr/>
-
 <!-- Título de sección para estadísticas de GitHub -->
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 <br>
 
 <!-- Contenedor para mostrar diferentes estadísticas de GitHub -->
-<div align=center>
+<div align="center">
   <!-- Estadísticas de la racha de contribuciones -->
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Mgonzalo11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=Mgonzalo11&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  
+  <br/><br/> <!-- Espaciado entre las imágenes -->
+  
   <!-- Estadísticas generales del perfil de GitHub -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+  <br/><br/> <!-- Espaciado entre las imágenes -->
+  
   <!-- Gráfico que muestra los lenguajes más utilizados en GitHub -->
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgonzalo11&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
+
 
 <!-- Línea horizontal para separar secciones -->
 <hr/>
