@@ -65,11 +65,12 @@
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
   
-  <!-- Gráfico de contribuciones del año en cuadraditos -->
-  <img alt="Mis contribuciones del año" src="https://github-readme-stats.vercel.app/api?username=Mgonzalo11&count_private=true&show_icons=true&theme=react&border_radius=10" />
+  <!-- Gráfico de contribuciones del año en formato de cuadraditos -->
+  <img alt="Gráfico de contribuciones" src="https://github.com/Mgonzalo11/github-snake.svg" />
   
   <br/><br/>
 </div>
+
 
 
 
