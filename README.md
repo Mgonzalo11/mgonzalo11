@@ -33,7 +33,7 @@
 <h2 align="center" style="color: #4CAF50;">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <a href="https://i.pinimg.com/originals/f8/b8/a9/f8b8a92c33ac9d9de5a26b005e214b93.jpg" target="_blank">
+    <a href="https://i.pinimg.com/736x/ce/02/a7/ce02a74229e7e123237bba6dd8aa09b7.jpg" target="_blank">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,mysql,git,github,idea,vscode,notion" />
     </a>
 </div>
