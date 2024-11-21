@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mgonzalo11.Mgonzalo11" />
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=2000&color=00A0E5&width=435&lines=I'm+Miguel+Gonzalo+V%C3%A1zquez+;I'm+a+Informatic+Systems+Engineering+Student" alt="Typing SVG" />
     </a>
 </div>
 
